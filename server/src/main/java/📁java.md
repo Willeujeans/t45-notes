@@ -1,1 +1,1 @@
-- [[📁com]]
+- [[server/src/main/java/com/📁com]]

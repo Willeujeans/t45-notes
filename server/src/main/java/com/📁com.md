@@ -1,1 +1,1 @@
-- [[📁tco]]
+- [[server/src/main/java/com/tco/📁tco]]
