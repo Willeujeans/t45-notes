@@ -1,0 +1,3 @@
+- [[📁templates]]
+- [[client/src/📁src]]
+- [[client/schemas/📁schemas]]

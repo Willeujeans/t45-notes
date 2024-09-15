@@ -6,7 +6,7 @@
       {
         "id": "b5e342572fd13786",
         "type": "tabs",
-        "dimension": 55.59322033898305,
+        "dimension": 40.66937119675456,
         "children": [
           {
             "id": "066e822ff19db855",
@@ -14,18 +14,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "server/src/main/java/com/tco/server/WebApplication.java.md",
+                "file": "server/src/main/java/📁java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73c2cdc60d640c99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "client/📁client.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e6ddc453313fc6f3",
         "type": "tabs",
-        "dimension": 44.40677966101695,
+        "dimension": 59.33062880324543,
         "children": [
           {
             "id": "92a04aeebcb24ffb",
@@ -101,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "server/src/main/java/com/tco/server/WebApplication.java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "server/src/main/java/com/tco/server/WebApplication.java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "server/src/main/java/com/tco/server/WebApplication.java.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -162,43 +171,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "066e822ff19db855",
+  "active": "92a04aeebcb24ffb",
   "lastOpenFiles": [
-    "server/src/main/java/com/tco/server/MicroServer.java.md",
-    "server/src/main/java/com/tco/requests/ConfigRequest.java.md",
-    "server/src/main/java/com/tco/requests/DistancesRequest.java.md",
-    "server/src/main/java/com/tco/requests/Request.java.md",
-    "server/src/main/java/com/tco/requests/requests (overview).md",
-    "server/src/main/java/com/tco/server/WebApplication.java.md",
-    "server/src/main/resources/schemas/schemas (overview).md",
-    "server/src/main/resources/schemas/DistancesRequest.json.md",
-    "server/src/main/resources/schemas/ConfigRequest.json.md",
-    "server/src/main/java/com/tco/misc/misc (overview).md",
-    "server/src/main/java/com/tco/misc/JSONValidator.java.md",
+    "client/📁client.md",
+    "client/schemas/📁schemas.md",
+    "client/src/📁src.md",
+    "client/src/entry.js.md",
+    "client/test/📁test.md",
+    "client/templates/📁templates.md",
+    "github/workflows/📁workflows.md",
+    "github/📁github.md",
+    "Postman/📁Postman.md",
+    "server/src/main/resources/📁resources.md",
+    "server/src/main/📁main.md",
+    "server/src/main/java/📁java.md",
+    "server/src/main/resources/schemas/📁schemas.md",
+    "server/src/📁src.md",
+    "server/src/main/java/com/tco/misc/📁misc.md",
+    "server/src/main/java/com/tco/requests/📁requests.md",
+    "server/src/main/java/com/tco/📁tco.md",
+    "server/src/main/java/com/📁com.md",
     "server/src/main/java/com/tco/misc/BadRequestException.java.md",
-    "t45 (overview).md",
+    "server/src/main/java/com/tco/requests/ConfigRequest.java.md",
+    "server/src/main/java/com/tco/server/📁server.md",
+    "server/src/main/java/com/tco/misc/JSONValidator.java.md",
+    "server/m2/📁m2.md",
+    "LOCAL-SETUP.md.md",
+    "README.md.md",
+    "✨Website.md",
     "server/src/main/java/com/tco/server",
     "server/src/main/java/com/tco/requests",
     "server/src/main/java/com/tco/misc",
-    "server/pom.xml.md",
     "server/src/main/resources/schemas/ConfigRequest.json",
     "server/src/main/resources/schemas",
     "server/src/main/resources",
     "server/src/main/java/com/tco",
     "server/src/main/java/com",
     "server/src/main/java",
-    "server/src/test/java/com/tco",
-    "Website (overview).md",
-    "t45/client/schemas/ConfigResponse.json.md",
-    "vscode/vscode (overview).md",
-    "vscode/settings.json.md",
-    "README.md.md",
-    "Postman/tour.json.md",
-    "Postman/find.json.md",
-    "Postman/distances.json.md",
-    "Postman/base.json.md",
-    "Postman/config.json.md",
-    "LOCAL-SETUP.md.md",
-    "github/workflows/workflows (overview).md"
+    "server/src/test/java/com/tco"
   ]
 }
