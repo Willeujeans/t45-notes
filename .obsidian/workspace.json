@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "client/📁client.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -171,8 +175,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92a04aeebcb24ffb",
+  "active": "73c2cdc60d640c99",
   "lastOpenFiles": [
+    "LOCAL-SETUP.md",
     "client/📁client.md",
     "client/schemas/📁schemas.md",
     "client/src/📁src.md",
@@ -196,8 +201,7 @@
     "server/src/main/java/com/tco/server/📁server.md",
     "server/src/main/java/com/tco/misc/JSONValidator.java.md",
     "server/m2/📁m2.md",
-    "LOCAL-SETUP.md.md",
-    "README.md.md",
+    "README.md",
     "✨Website.md",
     "server/src/main/java/com/tco/server",
     "server/src/main/java/com/tco/requests",
