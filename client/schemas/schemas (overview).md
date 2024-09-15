@@ -1,0 +1,1 @@
+This folder contains .json files that form outlines for how data should be formatted and sent to services.
