@@ -1,0 +1,1 @@
+Provides a custom exception type, used to indicate errors or issues with requests that are considered invalid.
