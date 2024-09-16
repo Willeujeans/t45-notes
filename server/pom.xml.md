@@ -1,6 +1,6 @@
 Maven Project Object Model (POM) file that is used by Maven
 
-These are dependencies required by the project:
+Dependencies:
 - **JUnit 5**: For writing and running tests.
 - **Spark Java**: A micro framework for creating web applications.
 - **Gson**: A library for JSON serialization and deserialization.

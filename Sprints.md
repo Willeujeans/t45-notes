@@ -5,3 +5,4 @@ Mainly focused on files in [[📁client]]
 This is a server side sprint
 Mainly focuses on files contained within the server/src folder [[server/src/📁src]]
 The goal is to implement distance calculations between locations the user has determined for their 'tour'
+Most of the code we write will be placed into [[server/src/main/java/com/tco/📁tco|📁tco]]
