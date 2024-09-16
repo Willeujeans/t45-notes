@@ -3,7 +3,6 @@ Contains the MicroServer class: is a server implementation that uses the Spark f
 - JSON processing
 - logging functionalities
 - HTTP & HTTPS support
-
 ### Workflow Example
 1. **Client Request:**
     - Client sends a `POST` request to `/api/config` or `/api/distances` with a JSON body.
