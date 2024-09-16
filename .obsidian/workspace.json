@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "server/m2/settings.xml.md",
+                "file": "server/src/main/java/com/tco/distances/DistancesCalculator.java.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "server/m2/settings.xml.md",
+                "file": "server/src/main/java/com/tco/distances/DistancesCalculator.java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "server/m2/settings.xml.md",
+                "file": "server/src/main/java/com/tco/distances/DistancesCalculator.java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "server/m2/settings.xml.md"
+                "file": "server/src/main/java/com/tco/distances/DistancesCalculator.java.md"
               }
             }
           }
@@ -148,8 +148,13 @@
   },
   "active": "04f21708a36e5ca4",
   "lastOpenFiles": [
-    "server/src/main/java/com/tco/misc/BadRequestException.java.md",
+    "server/src/main/java/com/tco/distances/DistancesCalculator.java.md",
+    "server/src/main/java/com/tco/distances",
+    "server/src/test/java/com/tco/requests/TestConfigRequest.java.md",
+    "server/src/test/📁test.md",
+    "server/src/📁src.md",
     "server/m2/settings.xml.md",
+    "server/src/main/java/com/tco/misc/BadRequestException.java.md",
     "server/src/main/java/com/tco/misc/JSONValidator.java.md",
     "server/src/main/java/com/tco/requests/Request.java.md",
     "server/src/main/java/com/tco/requests/DistancesRequest.java.md",
@@ -170,10 +175,6 @@
     "README.md",
     "LOCAL-SETUP.md",
     "📁t45.md",
-    "✨Website.md",
-    "vscode/📁vscode.md",
-    "vscode/settings.json.md",
-    "Postman/base.json.md",
     "server/src/test/java/com/tco/server",
     "server/src/test/java/com/tco/misc",
     "server/src/test/java/com/tco/requests",
@@ -182,7 +183,6 @@
     "server/src/main/java/com/tco/misc",
     "server/src/main/resources/schemas/ConfigRequest.json",
     "server/src/main/resources/schemas",
-    "server/src/main/resources",
-    "server/src/main/java/com/tco"
+    "server/src/main/resources"
   ]
 }

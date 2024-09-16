@@ -5,9 +5,66 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:client  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:server  ",
+      "color": {
+        "a": 1,
+        "rgb": 4102352
+      }
+    },
+    {
+      "query": "path:Postman  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:github ",
+      "color": {
+        "a": 1,
+        "rgb": 16153343
+      }
+    },
+    {
+      "query": "path:vscode  ",
+      "color": {
+        "a": 1,
+        "rgb": 16153343
+      }
+    },
+    {
+      "query": "file:LOCAL-SETUP",
+      "color": {
+        "a": 1,
+        "rgb": 16153343
+      }
+    },
+    {
+      "query": "path:bin  ",
+      "color": {
+        "a": 1,
+        "rgb": 16153343
+      }
+    },
+    {
+      "query": "file:README",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -17,6 +74,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.1658871252810017,
+  "scale": 1.039355175743126,
   "close": true
 }
