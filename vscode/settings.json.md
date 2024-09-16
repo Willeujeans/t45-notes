@@ -1,1 +1,1 @@
-*tells which items to ignore when opening the project in vscode*
+tells which items to ignore when opening the project in vscode

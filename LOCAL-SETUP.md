@@ -1,1 +1,1 @@
-Contains instructions on how to run the website locally
+Contains instructions on how to run the website locally, this will not be needed if the user will SSH into a CSU linux machine

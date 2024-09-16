@@ -1,4 +1,6 @@
-Contains the MicroServer class: is a server implementation that uses the Spark framework to handle HTTP requests and serve responses.
+### MicroServer class
+- A server implementation that uses the Spark framework
+- handles HTTP requests and serves responses
 - request validation
 - JSON processing
 - logging functionalities

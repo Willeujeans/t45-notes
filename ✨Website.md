@@ -16,6 +16,5 @@ Website:
 	? When multiple locations are added a line is drawn between them
 	? When 3 or more locations are active the line will always loop back to the start
 	? Removing the first location will make the second created location become the new first location 
-
 ### About Page
 Contains images of team members and information about them in a card style format.
