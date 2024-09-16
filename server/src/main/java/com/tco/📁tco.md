@@ -1,2 +1,2 @@
-- [[📁misc]]
-- [[📁requests]]
+- [[server/src/main/java/com/tco/misc/📁misc]]
+- [[server/src/main/java/com/tco/requests/📁requests]]
