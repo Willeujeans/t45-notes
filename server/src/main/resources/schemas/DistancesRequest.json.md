@@ -1,0 +1,1 @@
+Outlines the structure that must be provided for a distance request to be processed
